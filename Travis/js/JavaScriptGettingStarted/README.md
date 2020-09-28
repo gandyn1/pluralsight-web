@@ -1,2 +1,2 @@
-# JavaScript
-[JavaScript: Getting Started](https://app.pluralsight.com/library/courses/javascript-getting-started)
+# JavaScript: Getting Started
+[Course](https://app.pluralsight.com/library/courses/javascript-getting-started)

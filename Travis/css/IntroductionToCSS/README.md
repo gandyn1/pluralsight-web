@@ -1,2 +1,2 @@
-# CSS
-[Introduction to CSS](https://app.pluralsight.com/library/courses/css-intro)
+# Introduction to CSS
+[Course](https://app.pluralsight.com/library/courses/css-intro)
